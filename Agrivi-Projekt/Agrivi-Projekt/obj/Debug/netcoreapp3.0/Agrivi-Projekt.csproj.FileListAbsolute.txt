@@ -1,0 +1,655 @@
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\appsettings.json
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Properties\serviceDependencies.json
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Properties\serviceDependencies.local.json
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.exe
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.deps.json
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.runtimeconfig.json
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.runtimeconfig.dev.json
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.pdb
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Text.Json.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.AssemblyInfoInputs.cache
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.AssemblyInfo.cs
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.RazorTargetAssemblyInfo.cache
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.csproj.CopyComplete
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\staticwebassets\Agrivi-Projekt.StaticWebAssets.Manifest.cache
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\staticwebassets\Agrivi-Projekt.StaticWebAssets.xml
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.pdb
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.genruntimeconfig.cache
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Debug.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ServiceStack.Interfaces.dll
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.csproj.CoreCompileInputs.cache
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.MvcApplicationPartsAssemblyInfo.cs
+F:\repos\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.MvcApplicationPartsAssemblyInfo.cache
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\appsettings.json
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Properties\serviceDependencies.json
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Properties\serviceDependencies.local.json
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\global.json
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.exe
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.deps.json
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.runtimeconfig.json
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.runtimeconfig.dev.json
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.pdb
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Debug.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ServiceStack.Interfaces.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Text.Json.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.AssemblyInfoInputs.cache
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.AssemblyInfo.cs
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.RazorTargetAssemblyInfo.cache
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.csproj.CopyComplete
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\staticwebassets\Agrivi-Projekt.StaticWebAssets.Manifest.cache
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\staticwebassets\Agrivi-Projekt.StaticWebAssets.xml
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.pdb
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.genruntimeconfig.cache
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\AutoMapper.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Web.Http.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.csproj.CoreCompileInputs.cache
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.MvcApplicationPartsAssemblyInfo.cs
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.MvcApplicationPartsAssemblyInfo.cache
+E:\Downloads\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.csprojAssemblyReference.cache
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\appsettings.json
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\global.json
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Properties\serviceDependencies.json
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Properties\serviceDependencies.local.json
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.exe
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.deps.json
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.runtimeconfig.json
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.runtimeconfig.dev.json
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.pdb
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\AutoMapper.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Web.Http.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Debug.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ServiceStack.Interfaces.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Text.Json.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.AssemblyInfoInputs.cache
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.AssemblyInfo.cs
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.csproj.CoreCompileInputs.cache
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.MvcApplicationPartsAssemblyInfo.cs
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.MvcApplicationPartsAssemblyInfo.cache
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.RazorTargetAssemblyInfo.cache
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.csproj.CopyComplete
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\staticwebassets\Agrivi-Projekt.StaticWebAssets.Manifest.cache
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\staticwebassets\Agrivi-Projekt.StaticWebAssets.xml
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.dll
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.pdb
+F:\Downloads\Agrivi\Agrivi-Projekt\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.genruntimeconfig.cache
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\appsettings.json
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\global.json
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Properties\serviceDependencies.json
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Properties\serviceDependencies.local.json
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.exe
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.deps.json
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.runtimeconfig.json
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.runtimeconfig.dev.json
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Agrivi-Projekt.pdb
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\AutoMapper.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Web.Http.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Debug.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ServiceStack.Interfaces.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\System.Text.Json.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.AssemblyInfoInputs.cache
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.AssemblyInfo.cs
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.csproj.CoreCompileInputs.cache
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.MvcApplicationPartsAssemblyInfo.cs
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.MvcApplicationPartsAssemblyInfo.cache
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.RazorTargetAssemblyInfo.cache
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.csproj.CopyComplete
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\staticwebassets\Agrivi-Projekt.StaticWebAssets.Manifest.cache
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\staticwebassets\Agrivi-Projekt.StaticWebAssets.xml
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.dll
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.pdb
+F:\Agrivi-projekt full\Agrivi-Projekt\Agrivi-Projekt\obj\Debug\netcoreapp3.0\Agrivi-Projekt.genruntimeconfig.cache

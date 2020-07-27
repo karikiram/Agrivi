@@ -1,0 +1,50 @@
+<form  #form="ngForm" autocomplete="off" (submit)="onSubmit(form)">
+    <input type="hidden" name="CarId" [value]="carService.carFormData.CarId">
+    <div class="form-group">
+      <div class="input-group">
+        <div class="input-group-prepend">
+          <div class="input-group-text bg-white">
+            <i class="fas fa-car" [class.green-icon]="CarName.valid" [class.red-icon]="CarName.invalid && CarName.touched"></i>
+          </div>
+        </div>
+        <input type="text" name="CarName" #CarName="ngModel" [(ngModel)]="carService.carFormData.CarName" class="form-control"
+          placeholder="Car Name" required>
+      </div>
+    </div>
+    <div class="form-group">
+      <div class="input-group">
+        <div class="input-group-prepend">
+          <div class="input-group-text bg-white">
+            <i class="far fa-credit-card"  [class.green-icon]="CarDescription.valid" [class.red-icon]="CarDescription.invalid && CarDescription.touched"></i>
+          </div>
+        </div>
+        <textarea type="text" name="CarDescription" #CarDescription="ngModel" [(ngModel)]="carService.carFormData.CarDescription" 
+        class="form-control" placeholder="Car Description" placeholder="Price,information,etc.">
+        </textarea>
+      </div>
+    </div>
+      <div class="form-group">
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <div class="input-group-text bg-white">
+              <i class="fas fa-calendar-alt"  [class.green-icon]="CarDate.valid" [class.red-icon]="CarDate.invalid && CarDate.touched"></i>
+            </div>
+          </div>
+          <input type="datetime-local" name="CarDate" #CarDate="ngModel" [(ngModel)]="carService.carFormData.CarDate" class="form-control"
+          placeholder="mm/dd/yyyy" required>
+        </div>
+      </div>
+      <div class="form-group">
+        <div class="input-group">
+            <div class="input-group-prepend">
+              <label class="input-group-text" for="type">Brand</label>
+            </div>
+          <select class="custom-select bg-white" type="number" id="type" name="BrandId" #BrandId="ngModel" [(ngModel)]="carService.carFormData.BrandId">
+            <option type="number" *ngFor="let brand of brandService.brandList" [ngValue]="brand.BrandId">{{brand.BrandName}}</option>
+          </select>
+        </div>
+      </div>
+    <div class="form-group">
+      <button class="btn btn-success btn-lg btn-block" type="submit" [disabled]="form.invalid"><i class="far fa-check-circle" style="padding-right: 10px !important;"></i>Submit</button>
+    </div>
+  </form>

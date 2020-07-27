@@ -1,0 +1,43 @@
+<div class="input-group mb-3">
+    <input type="text" class="form-control" [(ngModel)]="brandString" name="brandString" type="text" placeholder="Search brands by name">
+    <button style="margin-left: 20px;" type="button" class="btn btn-info" (click)="searchBrand()">Search</button>
+</div>
+<table class="table table-hover">
+    <tr>
+        <td>Name</td>
+        <td>Edit</td>
+        <td>Delete</td>
+        <td>Details</td>
+        <td>Sort:
+            <button class="btn btn-sm dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <a (click)="sortByName()" class="dropdown-item">Name</a>
+            </div>
+        </td>
+    <tr *ngFor="let brand of brandService.brandList | paginate: { itemsPerPage: 5, currentPage: p }">
+        <td>{{brand.BrandName}}</td>
+        <td><button type="button" class="btn btn-info" (click)="populateForm(brand)">Edit</button></td>
+        <td><i class="far fa-trash-alt fa-lg text-danger center" (click)="onDelete(brand.BrandId)"></i></td>
+        <td><button type="button" data-toggle="modal" class="btn btn-link center" (click)="openModal(brand.BrandId)" data-target="#myModal">Details</button></td>
+</table>
+<pagination-controls (pageChange)="p = $event"></pagination-controls>
+
+ <div *ngIf="showModalBox" class="modal" id="myModal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+              <div class="modal-header">
+          <h4 class="modal-title">{{data.BrandName}}</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="modal-body">
+            <div *ngFor="let car of data.Car">
+                  <div>Name: {{car.CarName}}</div>
+                  <div>Date: {{car.CarDate | date: 'dd/MM/yyyy'}}</div>
+                  <div>Description: {{car.CarDescription}}</div>
+                  <p></p>
+            </div>
+        </div> 
+      </div>
+    </div>
+  </div>

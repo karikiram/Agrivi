@@ -1,0 +1,31 @@
+<div class="input-group mb-3">
+    <input type="text" class="form-control" [(ngModel)]="carString" name="carString" type="text" placeholder="Search cars by name">
+    <button style="margin-left: 20px;" type="button" class="btn btn-info" (click)="searchCar()">Search</button>
+</div>
+<table class="table table-hover">
+    <tr>
+        <td>Name</td>
+        <td>Date of manufacture</td>
+        <td>Description</td>
+        <td>Brand</td>
+        <td>Edit</td>
+        <td>Delete</td>
+        <td>Sort:
+            <button class="btn btn-sm dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <a (click)="sortByName()" class="dropdown-item">Name</a>
+              <a (click)="sortByDate()" class="dropdown-item">Date</a>
+              <a (click)="sortByBrand()" class="dropdown-item">Brand</a>
+            </div>
+        </td>            
+    </tr>
+    <tr *ngFor="let car of carService.carList | paginate: { itemsPerPage: 5, currentPage: p }">
+        <td>{{car.CarName}}</td>
+        <td>{{car.CarDate | date: 'dd/MM/yyyy'}}</td>
+        <td>{{car.CarDescription}}</td>
+        <td>{{car.Brand.BrandName}}</td>
+        <td><button type="button" class="btn btn-info" (click)="populateForm(car)">Edit</button></td>
+        <td><i class="far fa-trash-alt fa-lg text-danger center" (click)="onDelete(car.CarId)"></i></td>
+</table>
+<pagination-controls (pageChange)="p = $event"></pagination-controls>
